@@ -33,7 +33,7 @@
  
   
  <h1>Commits:</h1>
- <div>
+
    ![Snake animation](https://github.com/AX414/AX414/blob/output/github-contribution-grid-snake.svg)
- </div>
+
  
