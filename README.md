@@ -31,6 +31,9 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-lisboa-porcel-2755b61a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
  
+  
+ <h1>Commits:</h1>
+ <div>
    ![Snake animation](https://github.com/AX414/AX414/blob/output/github-contribution-grid-snake.svg)
- 
+ </div>
  
