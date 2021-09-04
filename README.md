@@ -2,7 +2,6 @@
 <h1>Bio:</h1>Eae 👋, beleza? 
 
 - 🌀 Nome e Idade: João Victor Lisboa Porcel, 19
-- 🔷 Sexo: Masculino
 - 🌐 Nacionalidade: Brasileira
 - 📚 Atualmente cursando um Bacharel em Ciência da Computação
 - 📗 Buscando aprender mais sobre linguagens de programação
