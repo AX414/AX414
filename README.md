@@ -3,7 +3,7 @@
 
 - 🌀 Nome e Idade: João Victor Lisboa Porcel, 19
 - 🌐 Nacionalidade: Brasileira
-- 📚 Atualmente cursando um Bacharel em Ciência da Computação
+- 📚 Atualmente cursando um Bacharelado em Ciência da Computação
 - 📗 Buscando aprender mais sobre linguagens de programação
 
 
