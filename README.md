@@ -1,7 +1,7 @@
 
 <h1>Bio:</h1>Eae 👋, beleza? 
 
-- 🌀 Nome e Idade: João Victor Lisboa Porcel, 20
+- 🌀 Nome e Idade: João Victor Lisboa Porcel, 21
 - 🌐 Nacionalidade: Brasileira
 - 📚 Atualmente cursando Bacharelado em Ciência da Computação
 - 📗 Buscando aprender mais sobre linguagens de programação
