@@ -5,15 +5,6 @@
 - 🌐 Nacionalidade: Brasileira
 - 📚 Atualmente cursando Bacharelado em Ciência da Computação
 - 📗 Buscando aprender mais sobre linguagens de programação
-
-
-<h1>Status:</h1>
- <div>
-  <a href="https://github.com/AX414">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AX414&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  &nbsp &nbsp
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AX414&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
   
  <h1>Commits:</h1>
  
