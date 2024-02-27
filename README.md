@@ -1,4 +1,4 @@
-![Cartão de Desenvolvedor](https://github.com/AX414/AX414/blob/main/readme.png)
+[](https://github.com/AX414/AX414/blob/main/readme.png)
 <!--
 <html>
 <body>
