@@ -1,16 +1,7 @@
 <html>
 <body>
-<style>
-h1 b, h3 b{color: #18E0B8;}
-p{color: #FFFFFF; margin-left: 20%; margin-right:20%; width: 60%; text-align: justify;}
-#badges{margin: 5% 0 5% 0}
-.badge{border-radius: 25px;}
-.content{background-color: #0D1117; margin-top: 0; padding-top: 0; height: 100%; width: 100%; border-radius:50px;}
-.espaco{margin: 5% 0 5% 0;}
-.separator{width: 50%; margin: 0 20% 0 20%; border: 1px solid #FFFFFF;}
-</style>
 
-<div class="content">
+<div style="background-color: #0D1117; margin-top: 0; padding-top: 0; height: 100%; width: 100%; border-radius:50px;">
 <center>
 <img style="border-radius: 90px; margin-top: 5%; width: 180px;" src="https://avatars.githubusercontent.com/u/68911216?v=4"/>
 <h1><b>João Victor Lisboa Porcel</b></h1>
