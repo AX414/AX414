@@ -8,7 +8,7 @@
 <h1><b>João Victor Lisboa Porcel</b></h1>
 </center>
 
-<p>Formado Técnico em Informática pelo IFSP - Campus Presidente Epitácio e atualmente cursando Bacharelado em Ciência da Computação no mesmo campus. Adoro programar e conhecer novas tecnologias, me encontro aberto à ofertas de emprego.</p>
+<p>Formado Técnico em Informática pelo IFSP - Campus Presidente Epitácio e atualmente cursando Bacharelado em Ciência da Computação no mesmo campus. Adoro programar e conhecer novas tecnologias, me encontro aberto à ofertas.</p>
 
 <div id="badges">
 <center>
