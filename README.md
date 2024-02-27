@@ -1,9 +1,7 @@
 <html>
 <body>
-
 <div style="background-color: #0D1117; margin-top: 0; padding-top: 0; height: 100%; width: 100%; border-radius:50px;">
 <center>
-<img style="border-radius: 90px; margin-top: 5%; width: 180px;" src="https://avatars.githubusercontent.com/u/68911216?v=4"/>
 <h1><b>João Victor Lisboa Porcel</b></h1>
 </center>
 
