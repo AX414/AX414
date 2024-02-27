@@ -4,7 +4,6 @@
 h1 b, h3 b{color: #18E0B8;}
 p{color: #FFFFFF; margin-left: 20%; margin-right:20%; width: 60%; text-align: justify;}
 #badges{margin: 5% 0 5% 0}
-.avatar{border-radius: 90px; margin-top: 5%; width: 180px;}
 .badge{border-radius: 25px;}
 .content{background-color: #0D1117; margin-top: 0; padding-top: 0; height: 100%; width: 100%; border-radius:50px;}
 .espaco{margin: 5% 0 5% 0;}
@@ -13,7 +12,7 @@ p{color: #FFFFFF; margin-left: 20%; margin-right:20%; width: 60%; text-align: ju
 
 <div class="content">
 <center>
-<img class="avatar" src="https://avatars.githubusercontent.com/u/68911216?v=4"/>
+<img style="border-radius: 90px; margin-top: 5%; width: 180px;" src="https://avatars.githubusercontent.com/u/68911216?v=4"/>
 <h1><b>João Victor Lisboa Porcel</b></h1>
 </center>
 
@@ -49,7 +48,7 @@ p{color: #FFFFFF; margin-left: 20%; margin-right:20%; width: 60%; text-align: ju
 </div>
 
 <center>
-<div class="separator"></div>
+<div style="width: 50%; margin: 0 20% 0 20%; border: 1px solid #FFFFFF;"></div>
 <h3><b>Contatos</b></h3>
 <a href="mailto:joaovictorlisboaporcel@hotmail.com">
     <img class="badge" src="https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=microsoft-outlook">
