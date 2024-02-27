@@ -1,3 +1,5 @@
+![Cartão de Desenvolvedor](https://github.com/AX414/AX414/blob/main/readme.png)
+<!--
 <html>
 <body>
 <div style="background-color: #0D1117; margin-top: 0; padding-top: 0; height: 100%; width: 100%; border-radius:50px;">
@@ -54,3 +56,17 @@
 </center>
 </body>
 </html>
+-->
+<h3><b>Contatos</b></h3>
+<a href="mailto:joaovictorlisboaporcel@hotmail.com">
+    <img class="badge" src="https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=microsoft-outlook">
+</a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-lisboa-porcel-2755b61a5/">
+    <img class="badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://github.com/AX414">
+    <img class="badge" src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github">
+</a>
+<a href="https://ax414.github.io/curriculo">
+    <img class="badge" src="https://img.shields.io/badge/Curriculo-blue?style=for-the-badge&logo=gnometerminal">
+</a>
