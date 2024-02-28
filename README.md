@@ -1,11 +1,8 @@
-<!--
-![](https://github.com/AX414/AX414/blob/main/readme.png)
--->
 <html>
 <body>
 <div style="background-color: #0D1117; margin-top: 0; padding-top: 0; height: 100%; width: 100%; border-radius:50px;">
 <center>
-<h1><b>João Victor Lisboa Porcel</b></h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=Jo%C3%A3o+Victor+Lisboa+Porcel&fontSize=40&fontColor=FFFFFF&fontAlignY=35"/>
 </center>
 
 <p>Formado Técnico em Informática pelo IFSP - Campus Presidente Epitácio e atualmente cursando Bacharelado em Ciência da Computação no mesmo campus. Adoro programar e conhecer novas tecnologias, me encontro aberto à ofertas.</p>
