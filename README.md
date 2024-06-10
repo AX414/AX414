@@ -31,11 +31,7 @@
 <div class="espaco"></div>
 <h3><b>Commits</b></h3>
 
-<!-- ![Snake animation](https://github.com/AX414/AX414/blob/output/github-contribution-grid-snake.svg)-->
-
-<picture>
-  <img alt="github contribution grid snake animation" src="https://github.com/AX414/AX414/blob/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/AX414/AX414/blob/output/github-contribution-grid-snake.svg)
 
 </center>
 </div>
