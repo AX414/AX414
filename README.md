@@ -29,9 +29,9 @@
 <img class="badge" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img class="badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <div class="espaco"></div>
-<h3><b>Commits</b></h3>
+<!--<h3><b>Commits</b></h3>-->
 
-![Snake animation](https://github.com/AX414/AX414/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/AX414/AX414/blob/output/github-contribution-grid-snake.svg)-->
 
 </center>
 </div>
