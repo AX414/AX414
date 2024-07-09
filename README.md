@@ -5,7 +5,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=Jo%C3%A3o+Victor+Lisboa+Porcel&fontSize=40&fontColor=FFFFFF&fontAlignY=35"/>
 </center>
 
-<p>Formado Técnico em Informática e Bacharel em Ciência da Computação pelo IFSP - Campus Presidente. Adoro programar e conhecer novas tecnologias principalmente em Java e Python, atualmente me encontro aberto à ofertas de emprego.</p>
+<p>Formado Técnico em Informática e Bacharel em Ciência da Computação pelo IFSP - Campus Presidente Epitácio. Adoro programar e conhecer novas tecnologias principalmente em Java e Python, atualmente me encontro aberto à ofertas de emprego.</p>
 
 <div id="badges">
 <center>
