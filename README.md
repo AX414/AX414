@@ -33,14 +33,12 @@
 
 <h2> :earth_americas: &nbsp; Contact me: </h2> 
 
-[![Linkedin: João Porcel](https://img.shields.io/badge/-Linkedin-blue?style=rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AX414/)]([https://www.linkedin.com/in/joaomarcos777/](https://www.linkedin.com/in/jo%C3%A3o-victor-lisboa-porcel-2755b61a5/))
+[![Linkedin: João Porcel](https://img.shields.io/badge/-Linkedin-blue?style=rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AX414/)](https://www.linkedin.com/in/jo%C3%A3o-victor-lisboa-porcel-2755b61a5/])
 [![Outlook Badge](https://img.shields.io/badge/-joaovictorlisboaporcel@hotmail.com-006bed?style=rounded&logo=Outlook&logoColor=white&link=mailto:joaovictorlisboaporcel@hotmail.com)](mailto:joaovictorlisboaporcel@hotmail.com)
 [![GitHub]( https://img.shields.io/github/followers/AX414?label=follow&style=social)](https://github.com/AX414/)
 </div>
 
 </body>
 </html>
-
-
 
 </html>
