@@ -1,26 +1,45 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 18 * * *" # 03:00 JST == 18:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
-      - uses: actions/checkout@v4.1.1
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
+          persist-credentials: false
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+
+      - name: Commit & Push changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          # evitar erro de commit vazio
+          if git diff --cached --quiet; then
+            echo "Sem mudanças para commitar"
+            exit 0
+          fi
+
           git commit -m "generated"
+
+          git pull --rebase
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
