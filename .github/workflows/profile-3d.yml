@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *" # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *" # 18:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -29,9 +29,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # Reconfigurar a URL do remote com token
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${USERNAME}/${REPO}.git
+
           git add -A
 
-          # evitar erro de commit vazio
+          # evitar commit vazio
           if git diff --cached --quiet; then
             echo "Sem mudanças para commitar"
             exit 0
@@ -43,3 +46,5 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
